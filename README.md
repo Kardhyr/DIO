@@ -1,2 +1,5 @@
 # DIO
-Repositório para os conteúdos da Digital Innovation One
+Repositório para armazenar os conteúdos da _Digital Innovation One_.
+
+## SUMÁRIO
+ - 01 - [Git / GitHub]()
