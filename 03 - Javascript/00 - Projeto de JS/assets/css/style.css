@@ -1,0 +1,46 @@
+@import "./normalizer.css";
+
+body {
+    color: #010B40;
+    background-color: #F2F1DC;
+    text-align: center;
+}
+
+a {
+    color: #F29441;
+    font-weight: 500;
+}
+
+a:visited {
+    color: #8C2703;
+}
+
+a:hover {
+    color: #91C5F2;
+}
+#counter {
+    display: flex;
+    flex: row nowrap;
+    justify-content: center;
+    align-items: stretch;
+    background-color: #8C2703;
+}
+button {
+    color: #91C5F2;
+    background-color: #010B40;
+    padding: 0 50px;
+    flex-grow: 1;
+    max-width: 75px;
+}
+
+#counter span {
+    font-size: 96rem;
+}
+
+#minus {
+    line-height: 36px;
+}
+
+h1, p {
+    margin: 24px;
+}

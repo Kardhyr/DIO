@@ -1,0 +1,22 @@
+body {
+  color:
+    rgba(255, 255, 255, 0.85);
+  background:
+    url("https://cdn.pixabay.com/photo/2021/05/07/17/40/abstract-6236747_960_720.jpg"),
+    url("https://cdn.pixabay.com/photo/2021/02/12/09/42/street-6007869_960_720.jpg"),
+    url("https://cdn.pixabay.com/photo/2020/02/04/22/45/watercolour-4819600_960_720.jpg"),
+    no-repeat
+    fixed
+    center
+    rgba(0, 0, 0, 0.05)
+  ;
+  background-size: cover;
+}
+
+header {
+  background-color: rgba(255, 255, 255);
+}
+
+.certo {
+  color: green;
+}

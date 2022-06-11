@@ -1,0 +1,18 @@
+/* NORMALIZE*/
+@import url("normalizer.css");
+
+/* ESCOPOS */
+@import url("header.css");
+@import url("main.css");
+@import url("footer.css");
+
+
+/* RECURSOS */
+    /* FONTES */
+        @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600&display=swap");
+
+    /* CORES */
+        @import url("theme1.css");
+
+    /* GLASSMORFISMO */
+        @import url("./rsc/glassmorfismo.css");

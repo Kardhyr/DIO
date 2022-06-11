@@ -1,7 +1,9 @@
 ========================================
 # 1 O QUE É INTERNET?
 ========================================
+
 ## Introdução ao tema
+
 Instrutor - Bruno Prado
 
 1969 - Arpanet; email.
@@ -14,6 +16,7 @@ Instrutor - Bruno Prado
 
 
 ## Termos-chave
+
  - download/upload
  - navegador
  - banda larga
@@ -57,6 +60,7 @@ Instrutor - Bruno Prado
 
 
 ## A Internet atualmente
+
 134 milhões de BR com acesso à internet.
 São dados em geral...
 Destes, vale ressaltar a proporção de acesso à internet por dispositivos:
@@ -92,10 +96,13 @@ Buscas online:
 A pandemia aumentou o consumo de internet no mundo inteiro.
 
 
+
 ========================================
 # 2 COMO FUNCIONA A INTERNET
 ========================================
+
 ## Redes
+
 Backbone - Espécie de "espinha dorsal" responsável por concentrar a parte mais robusta da conexão de internet. Dali a conexão segue para os provedores de acesso (empresas telefônicas) e estes repassam o sinal até o consumidor final (empresas e residências).
 
 Tipos de conexão:
@@ -116,7 +123,9 @@ DNS (_Domain Name Service_) - converte endereços por extenso em endereços IP (
 ========================================
 # 3 TCP/IP, PORTAS, ROTEADORES, SWITCH...
 ========================================
+
 ## TCP/IP E UDP
+
 TCP - acrônimo para _Transmission Control Protocol_ (Protocolo de Controle de Transmissão)
 
 
@@ -141,6 +150,7 @@ Características do TCP:
 
 
 ## PORTAS
+
 Funcionam como filtros de tipos de dados e garantem o tráfego adequado.
 
  - 20  FTP   (transferência de arquivos)
@@ -152,6 +162,7 @@ Funcionam como filtros de tipos de dados e garantem o tráfego adequado.
 
 
 ## ROTEADORES, SWITCHES E MODEMS
+
 Modem (_MOdulator-DEModulator_)- Hardware que converte dados em um formato que possa ser transmitido de um computador para outro e lido por outro.
 
 Roteador - Distribui a internet para um ou mais dispositivos numa rede.
@@ -163,7 +174,9 @@ Switch - Distribui a internet para um ou mais dispositivos numa rede fazendo o g
 ========================================
 # 4 CELULAR, INTERNET E OUTROS DISPOS...
 ========================================
+
 ## DADOS MÓVEIS
+
 SMS - Mensagens de texto.
 MMS - Mensagens multimídia (áudio e vídeo).
 
@@ -178,6 +191,7 @@ Tipos de dados móveis:
 
 
 ## WI-FI
+
 Padrões de wi-fi:
  - IEEE 802.11:  2.4 GHz, 2Mbps
  - IEEE 802.11a: 5 GHz, 54Mbps
@@ -197,6 +211,7 @@ Dispositivos de rede:
 
 
 ## BLUETOOTH
+
 Conexão ponto a ponto.
 Versão e taxa de transmissão:
  - 3.0   24Mbps
@@ -208,11 +223,14 @@ Versão e taxa de transmissão:
 ========================================
 # 5 BROWSER, SITES, APPS, WEBSERVER
 ========================================
+
 ## BROWSER
+
 Programa que interpreta códigos HTML, CSS e JS para exibir conteúdos áudiovisuais e interativos durante a navegação na web. Suporta cache (armazenamento temporário) de arquivos, cookies e extensões. Suporta páginas estáticas e dinâmicas.
 
 
 ## SITE, APLICATIVO E E-COMMERCE
+
 Site - qualquer página da web; Podem ser criadas usando-se diversas LP (línguas de programação).
 
 Aplicativo - pode ser um software que é executado no navegador. Muitos apps de celular são páginas web renderizadas numa estrutura análoga ao navegador. O termo site está em declínio, cedendo lugar ao termo "aplicativo".
@@ -221,6 +239,7 @@ e-Commerce - Comércio eletrônico. São sites/plataformas de comércio online o
 
 
 ## WEB-SERVER
+
 Podem ser máquinas físicas ou programas. As máquinas armazenam sites diversos e muitas páginas. Já os servidores web podem ser baixados e instalados em uma máquina para hospedarem os arquivos nessa máquina.
 
 Servers podem ser do tipo estático ou dinâmico.
@@ -237,11 +256,14 @@ Web-service - Interface disponível para fazer requisições e consultas em BD i
 ========================================
 # 6 STACKS
 ========================================
+
 ## STACKS
+
 São pilhas de tecnologia e englobam os conjuntos de softwares responsáveis pela execução de aplicações/programas, incluindo também suas línguas de programação. Agregam informações diversas sobre custos do projeto, prazos, viabilidade e disponibilidade de equipe dentre outras coisas.
 
 
 ## FRONT-END, BACK-END E FULL-STACK
+
 FRONT-END - Desenvolvem a parte visual dos sistemas, como interface, UI e UX. utilizam HTML e CSS, além de outras tecnologias como jQuery, JS, PHP. Contam também com o apoio de frameworks (como Bootstrap) para agilizar a produção.
 Frameworks:
  - HTML e CSS: Bootstrap, Bulma, JS Foundation, UiKit, Susy, Materialize, Pure.css, Less
@@ -256,7 +278,9 @@ FULL-STACK - Profissional qualificado para executar todo o processo de desenvolv
 ========================================
 # 7 LP E TERMOS
 ========================================
+
 ## PRINCIPAIS LP
+
  - HTML (linguagem de MARCAÇÃO): marcação de hipertexto.
  - CSS (assim como o HTML, não é uma linguagem): provê estilos aos conteúdos do HTML.
  - JS (jQuery, AJAX e diversas libs): lida com comportamentos, buscas, e rotinas.
@@ -271,6 +295,7 @@ FULL-STACK - Profissional qualificado para executar todo o processo de desenvolv
 
 
 ## TERMOS COMUNS 1
+
  - 404 (erro): quando a página não existe.
 
  - Algoritmo: sequência de passos para se executar alguma tarefa.
@@ -376,6 +401,8 @@ FULL-STACK - Profissional qualificado para executar todo o processo de desenvolv
 ========================================
 # 8 CONSTRUINDO A PRIMEIRA APLICAÇÃO
 ========================================
+
 ## AULA PRÁTICA
+
 Alguns conceitos de HTML, CSS e PHP.
 Não espere nada dessa aula. XD
