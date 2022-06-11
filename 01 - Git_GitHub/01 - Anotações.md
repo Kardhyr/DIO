@@ -89,7 +89,7 @@ Para verificar as diferenças do que está em *staging* para ser comitado, use::
 
     $ git diff --staged
 
-Ou::
+Ou:
 
     $ git diff --cached
 
